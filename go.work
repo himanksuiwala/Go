@@ -1,0 +1,9 @@
+go 1.21.0
+
+use (
+	./01hello
+	./02variables
+	./22goModules
+	./23myAPI
+	./24mongoDB
+)
