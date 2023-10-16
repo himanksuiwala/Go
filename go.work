@@ -6,4 +6,5 @@ use (
 	./22goModules
 	./23myAPI
 	./24mongoDB
+	./chapter_02
 )
